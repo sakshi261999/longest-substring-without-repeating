@@ -1,1 +1,1 @@
-# longest-substring-without-repeating
+# longest-substring-without-repeating character
